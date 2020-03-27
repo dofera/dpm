@@ -5,10 +5,10 @@
     width="300"
   />
 </p>
-<h1 align="center">Dofus Package Manager</h1>
+<h1 align="center">dofus package manager</h1>
 <p align="center">An open-source package manager for Dofus Retro</p>
 
-**[NOT AVAILABLE YET]** (70% avg)
+**[NOT AVAILABLE YET]** (75% avg)
 
 Index
 -----
@@ -18,12 +18,18 @@ Index
 - [Roadmap](https://github.com/Dofera/dpm#roadmap)
 - [Changelog](https://github.com/Dofera/dpm#changelog)
 - [SDK](https://github.com/Dofera/dpm#sdk)
+- [Documentation](https://github.com/Dofera/dpm#documentation)
 - [Contributing](https://github.com/Dofera/dpm#contributing)
 - [License](https://github.com/Dofera/dpm#license)
 
 About
 -----
-This project allows you to easily mod your client. DPM is loaded from an infected lang file, which load online packages shared from the community or your owns locally. This method provide an easy install and automatic updates without modifying the original files, that can be controlled by moderation and result in a ban.
+This project allows you to easily mod your client. The package manager is loaded from an infected lang file, which load online packages shared from the community or your owns locally. This method provide few advantages:
+
+- Easy install
+- Automatic updates
+- Indirect bypass of moderation controls
+- Flexibility between each client update
 
 Built-ins Features
 -----
@@ -36,9 +42,9 @@ Installation
 -----
 Simply add the following line into your config.xml file
 
-    <dataserver url="#" priority="2"/>
+    <dataserver url="https://cdn.dofera.com/" priority="2"/>
 
-You can also deploy DPM locally by cloning this repository and compiling it with MTASC or MXMLC.
+You can also deploy dpm locally by cloning this repository and compiling it with MTASC or MXMLC.
 
 Roadmap
 -----
@@ -50,7 +56,11 @@ Changelog
 
 SDK
 -----
-As a community project, you are able to develop your own DPM package using our FlashDevelop module (available soon).
+As a community project, you are able to develop your own dpm package using our FlashDevelop module (available soon).
+
+Documentation
+-----
+- Read the [documentation](https://docs.dofera.com)
 
 Contributing
 -----
