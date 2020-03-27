@@ -6,7 +6,7 @@
 
     <conf name="En ligne">
         <dataserver url="data/" type="local" priority="3"/>
-        <dataserver url="#" priority="2"/>
+        <dataserver url="https://cdn.dofera.com/" priority="2"/>
         <dataserver url="http://dofusretro.cdn.ankama.com/" priority="1"/>
     </conf>
 
