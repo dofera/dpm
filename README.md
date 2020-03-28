@@ -24,12 +24,12 @@ Index
 
 About
 -----
-This project allows you to easily mod your client. The package manager is loaded from an infected lang file, which load online packages shared from the community or your owns locally. This method provide few advantages:
+This project allows you to easily mod your client. The package manager is loaded from an infected lang file, which loads online packages shared from the community or your owns locally. This method provides many advantages:
 
 - Easy install
-- Automatic updates
+- Automatic dpm updates
 - Indirect bypass of moderation controls
-- Flexibility between each client update
+- Flexibility between each client updates
 
 Built-ins Features
 -----
@@ -40,7 +40,7 @@ Built-ins Features
 
 Installation
 -----
-Simply add the following line into your config.xml file
+Simply add the following line into your config.xml file, as showed [here](https://github.com/Dofera/dpm/blob/master/config.xml)
 
     <dataserver url="https://cdn.dofera.com/" priority="2"/>
 
@@ -56,7 +56,7 @@ Changelog
 
 SDK
 -----
-As a community project, you are able to develop your own dpm package using our FlashDevelop module (available soon).
+As a community project, you can develop your own dpm package using our FlashDevelop module (available soon).
 
 Documentation
 -----
