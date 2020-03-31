@@ -32,10 +32,6 @@ SDK
 -----
 As a community project, you can develop your own `dpm` package using our FlashDevelop module.
 
-Documentation
------
-Read the [documentation](https://docs.dofera.com)
-
 Contributing
 -----
 [How to contribute?](https://github.com/Dofera/dpm/blob/master/CONTRIBUTING.md)
