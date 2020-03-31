@@ -2,7 +2,7 @@
   <img
     alt="dpm"
     src="https://raw.githubusercontent.com/dofera/dpm/master/dpm.png"
-    width="300"
+    width="200"
   />
 </p>
 <p align="center">An open source package manager for Dofus Retro</p>
