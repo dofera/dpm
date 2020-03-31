@@ -1,35 +1,20 @@
 <p align="center">
   <img
     alt="dpm"
-    src="https://raw.githubusercontent.com/Dofera/dpm/master/dpm.png"
+    src="https://raw.githubusercontent.com/dofera/dpm/master/dpm.png"
     width="300"
   />
 </p>
-<h1 align="center">dofus package manager</h1>
-<p align="center">An open-source package manager for Dofus Retro</p>
-
-**[NOT AVAILABLE YET]** (75% avg)
-
-Index
------
-- [About](https://github.com/Dofera/dpm#about)
-- [Built-ins Features](https://github.com/Dofera/dpm#built-ins-features)
-- [Installation](https://github.com/Dofera/dpm#installation)
-- [Roadmap](https://github.com/Dofera/dpm#roadmap)
-- [Changelog](https://github.com/Dofera/dpm#changelog)
-- [SDK](https://github.com/Dofera/dpm#sdk)
-- [Documentation](https://github.com/Dofera/dpm#documentation)
-- [Contributing](https://github.com/Dofera/dpm#contributing)
-- [License](https://github.com/Dofera/dpm#license)
+<p align="center">An open source package manager for Dofus Retro</p>
+<p align="center">
+  <a href="https://docs.dofera.com">Documentation</a> |
+  <a href="https://github.com/dofera/dpm/releases">Changelog</a> |
+  <a href="https://github.com/dofera/dpm/blob/master/ROADMAP.md">Roadmap</a>
+</p>
 
 About
 -----
-This project allows you to easily mod your client. The package manager is loaded from an infected lang file, which loads online packages shared from the community or your owns locally. This method provides many advantages:
-
-- Easy install
-- Automatic dpm updates
-- Indirect bypass of moderation controls
-- Flexibility between each client updates
+This project allows you to easily mod your client. The package manager is loaded from an infected lang file, which loads packages shared from the community. This method provides flexibility between each client updates without modifying the original files.
 
 Built-ins Features
 -----
@@ -40,32 +25,21 @@ Built-ins Features
 
 Installation
 -----
-Simply add the following line into your config.xml file, as showed [here](https://github.com/Dofera/dpm/blob/master/config.xml)
 
-    <dataserver url="https://cdn.dofera.com/" priority="2"/>
-
-You can also deploy dpm locally by cloning this repository and compiling it with MTASC or MXMLC.
-
-Roadmap
------
-- Read the [ROADMAP](https://github.com/Dofera/dpm/blob/master/ROADMAP.md)
-
-Changelog
------
-- Read the [CHANGELOG](https://github.com/Dofera/dpm/blob/master/CHANGELOG.md)
+**NOT AVAILABLE YET** 80%
 
 SDK
 -----
-As a community project, you can develop your own dpm package using our FlashDevelop module (available soon).
+As a community project, you can develop your own `dpm` package using our FlashDevelop module.
 
 Documentation
 -----
-- Read the [documentation](https://docs.dofera.com)
+Read the [documentation](https://docs.dofera.com)
 
 Contributing
 -----
-- [How to contribute?](https://github.com/Dofera/dpm/blob/master/CONTRIBUTING.md)
+[How to contribute?](https://github.com/Dofera/dpm/blob/master/CONTRIBUTING.md)
 
 License
 -----
-[![forthebadge cc-nc-sa](http://ForTheBadge.com/images/badges/cc-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0)
+[GNU General Public License v3.0](https://github.com/dofera/dpm/blob/master/LICENSE)
