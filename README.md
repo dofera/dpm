@@ -14,7 +14,7 @@
 
 About
 -----
-This project allows you to easily mod your client. The package manager is loaded from an infected lang file, which loads packages shared from the community. This method provides flexibility between each client updates without modifying the original files.
+This project allows you to easily mod your client. The package manager is loaded from an infected lang file, which loads packages shared from the community. This method provides flexibility between each client updates by not modifying the original files.
 
 Built-ins Features
 -----
@@ -30,7 +30,7 @@ Installation
 
 SDK
 -----
-As a community project, you can develop your own `dpm` package using our FlashDevelop module.
+As a community project, you can develop your own `dpm` packages using our FlashDevelop module.
 
 Contributing
 -----
@@ -38,4 +38,4 @@ Contributing
 
 License
 -----
-[GNU General Public License v3.0](https://github.com/dofera/dpm/blob/master/LICENSE)
+[![LICENSE](https://img.shields.io/badge/LICENSE-GPL-bd0000?style=for-the-badge)](https://github.com/dofera/dpm/blob/master/LICENSE)
