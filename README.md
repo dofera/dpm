@@ -19,14 +19,13 @@ This project allows you to easily mod your client. The package manager is loaded
 Built-ins Features
 -----
 - Full deobfuscation
-- MITM directly into the console or forwarded to custom stream
-- Cross-platform rightclick support
 - A powerful and complete API
+- MITM directly into the console or forwarded to custom stream
 
 Installation
 -----
 
-**NOT AVAILABLE YET** 80%
+**NOT AVAILABLE YET** 90%
 
 SDK
 -----
@@ -38,4 +37,4 @@ Contributing
 
 License
 -----
-[![LICENSE](https://img.shields.io/badge/LICENSE-GPL-bd0000?style=for-the-badge)](https://github.com/dofera/dpm/blob/master/LICENSE)
+[![LICENSE](https://img.shields.io/badge/LICENSE-GPL--3.0-bd0000?style=for-the-badge)](https://github.com/dofera/dpm/blob/master/LICENSE)
