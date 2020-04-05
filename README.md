@@ -24,12 +24,21 @@ Built-ins Features
 
 Installation
 -----
-
-**NOT AVAILABLE YET** 90%
+As easy as 1, 2, 3
+- Download the [latest release](https://github.com/dofera/dpm/releases/latest)
+- Drag and drop the archive content into your Dofus directory (retroclient)
+- Play!
 
 SDK
 -----
-As a community project, you can develop your own `dpm` packages using our FlashDevelop module.
+As a community project, you can develop your own `dpm` packages using our FlashDevelop module (coming soon).
+
+Beta version is out, start coding!
+- Download the [latest SDK](https://github.com/dofera/dpm/releases/latest)
+- Download [FlashDevelop](https://github.com/fdorg/flashdevelop/releases)
+- Code!
+
+(Note: the [documentation](https://docs.dofera.com) isn't finished yet, feel free to explore the intrinsic classes in the `~/lib` folder)
 
 Contributing
 -----
