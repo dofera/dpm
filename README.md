@@ -34,7 +34,7 @@ SDK
 As a community project, you can develop your own `dpm` packages using our FlashDevelop module (coming soon).
 
 Beta version is out, start coding!
-- Download the [latest SDK](https://github.com/dofera/dpm/releases/latest)
+- Download the [latest SDK](https://github.com/dofera/dpm/releases/download/b0.0.0/dpm-sdk-b0.0.0.zip)
 - Download [FlashDevelop](https://github.com/fdorg/flashdevelop/releases)
 - Code!
 
