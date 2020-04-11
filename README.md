@@ -18,7 +18,7 @@ This project allows you to easily mod your client. The package manager is loaded
 
 Built-ins Features
 -----
-- Full [deobfuscation])(https://github.com/dofera/dpm/blob/master/deobfuscator.log)
+- Full [deobfuscation](https://github.com/dofera/dpm/blob/master/deobfuscator.log)
 - A powerful and complete API
 - MITM directly into the console or forwarded to custom stream
 
