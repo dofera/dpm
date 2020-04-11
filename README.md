@@ -18,7 +18,7 @@ This project allows you to easily mod your client. The package manager is loaded
 
 Built-ins Features
 -----
-- Full deobfuscation
+- Full [deobfuscation])(https://github.com/dofera/dpm/blob/master/deobfuscator.log)
 - A powerful and complete API
 - MITM directly into the console or forwarded to custom stream
 
@@ -38,7 +38,7 @@ Beta version is out, start coding!
 - Download [FlashDevelop](https://github.com/fdorg/flashdevelop/releases)
 - Code!
 
-(Note: the [documentation](https://docs.dofera.com) isn't finished yet, feel free to explore the intrinsic classes in the `~/lib` folder)
+(Note: the [documentation](https://docs.dofera.com) will be completed on stable release. Instead, feel free to explore the intrinsic classes in the `~/lib` folder)
 
 Contributing
 -----
