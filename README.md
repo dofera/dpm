@@ -5,4 +5,7 @@
     width="200"
   />
 </p>
+<h1 align="center">Dofera</h1>
 <p align="center">A powerful module-based client for Dofus Retro</p>
+
+Coming soon...
